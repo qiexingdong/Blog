@@ -1,4 +1,4 @@
-# 个人博客
+# 个人博客(网址：https://qiexingdong.gitee.io)
 * 基于**hexo框架**搭建，**主题是fluid**，通过**Gitee**发布
 * 必要软件：node.js和git
 * 博客的详细配置见
